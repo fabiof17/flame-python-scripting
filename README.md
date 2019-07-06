@@ -1,3 +1,3 @@
-![Image](Resources/flame-scripting-logo.png)
+![Image](Ressources/flame-scripting-logo.png)
 
 # Autodesk Flame python scripts
