@@ -2,4 +2,5 @@
 
 # Scripts Python pour Autodesk Flame
 
-### En cours...
+### Batch
+- **[reconstructCycles](/batch/reconstructCycles)** : Reconstructs Blender beauty pass from exr.
